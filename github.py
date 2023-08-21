@@ -4,3 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 hello github
 >>> print('hello world')
 hello world
+print('by ALN haru')
+
+
